@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/823061e81872426c888ed1651f93d2de)](https://www.codacy.com/gh/NerdPraise/Assessment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NerdPraise/Assessment&amp;utm_campaign=Badge_Grade)
 # Frontend Assessment
 
 Build and deploy a very simple frontend app for paginated data, that does the following
